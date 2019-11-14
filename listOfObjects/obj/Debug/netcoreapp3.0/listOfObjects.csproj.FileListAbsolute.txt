@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\bin\Debug\netcoreapp3.0\listOfObjects.exe
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\bin\Debug\netcoreapp3.0\listOfObjects.deps.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\bin\Debug\netcoreapp3.0\listOfObjects.runtimeconfig.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\bin\Debug\netcoreapp3.0\listOfObjects.runtimeconfig.dev.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\bin\Debug\netcoreapp3.0\listOfObjects.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\bin\Debug\netcoreapp3.0\listOfObjects.pdb
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\obj\Debug\netcoreapp3.0\listOfObjects.csprojAssemblyReference.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\obj\Debug\netcoreapp3.0\listOfObjects.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\obj\Debug\netcoreapp3.0\listOfObjects.AssemblyInfo.cs
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\obj\Debug\netcoreapp3.0\listOfObjects.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\listOfObjects\obj\Debug\netcoreapp3.0\listOfObjects.pdb

@@ -1,0 +1,10 @@
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\bin\Release\netcoreapp3.0\DogkConstructor.exe
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\bin\Release\netcoreapp3.0\DogkConstructor.deps.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\bin\Release\netcoreapp3.0\DogkConstructor.runtimeconfig.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\bin\Release\netcoreapp3.0\DogkConstructor.runtimeconfig.dev.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\bin\Release\netcoreapp3.0\DogkConstructor.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\bin\Release\netcoreapp3.0\DogkConstructor.pdb
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\obj\Release\netcoreapp3.0\DogkConstructor.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\obj\Release\netcoreapp3.0\DogkConstructor.AssemblyInfo.cs
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\obj\Release\netcoreapp3.0\DogkConstructor.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\DogkConstructor\obj\Release\netcoreapp3.0\DogkConstructor.pdb

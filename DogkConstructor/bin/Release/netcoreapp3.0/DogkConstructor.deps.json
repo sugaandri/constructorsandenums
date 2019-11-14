@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DogkConstructor/1.0.0": {
+        "runtime": {
+          "DogkConstructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DogkConstructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\bin\Debug\netcoreapp3.0\tasklist.exe
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\bin\Debug\netcoreapp3.0\tasklist.deps.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\bin\Debug\netcoreapp3.0\tasklist.runtimeconfig.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\bin\Debug\netcoreapp3.0\tasklist.runtimeconfig.dev.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\bin\Debug\netcoreapp3.0\tasklist.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\bin\Debug\netcoreapp3.0\tasklist.pdb
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\obj\Debug\netcoreapp3.0\tasklist.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\obj\Debug\netcoreapp3.0\tasklist.AssemblyInfo.cs
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\obj\Debug\netcoreapp3.0\tasklist.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\tasklist\obj\Debug\netcoreapp3.0\tasklist.pdb

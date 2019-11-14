@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\obj\Debug\netcoreapp3.0\ConstructorsAndEnums.csprojAssemblyReference.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\obj\Debug\netcoreapp3.0\ConstructorsAndEnums.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\obj\Debug\netcoreapp3.0\ConstructorsAndEnums.AssemblyInfo.cs
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\bin\Debug\netcoreapp3.0\ConstructorsAndEnums.exe
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\bin\Debug\netcoreapp3.0\ConstructorsAndEnums.deps.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\bin\Debug\netcoreapp3.0\ConstructorsAndEnums.runtimeconfig.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\bin\Debug\netcoreapp3.0\ConstructorsAndEnums.runtimeconfig.dev.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\bin\Debug\netcoreapp3.0\ConstructorsAndEnums.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\bin\Debug\netcoreapp3.0\ConstructorsAndEnums.pdb
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\obj\Debug\netcoreapp3.0\ConstructorsAndEnums.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\ConstructorsAndEnums\obj\Debug\netcoreapp3.0\ConstructorsAndEnums.pdb

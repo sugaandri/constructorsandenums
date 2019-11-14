@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\bin\Debug\netcoreapp3.0\Enums.exe
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\bin\Debug\netcoreapp3.0\Enums.deps.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\bin\Debug\netcoreapp3.0\Enums.runtimeconfig.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\bin\Debug\netcoreapp3.0\Enums.runtimeconfig.dev.json
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\bin\Debug\netcoreapp3.0\Enums.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\bin\Debug\netcoreapp3.0\Enums.pdb
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\obj\Debug\netcoreapp3.0\Enums.csprojAssemblyReference.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\obj\Debug\netcoreapp3.0\Enums.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\obj\Debug\netcoreapp3.0\Enums.AssemblyInfo.cs
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\obj\Debug\netcoreapp3.0\Enums.dll
+C:\Users\opilane\projects\New folder\ConstructorsAndEnums\Enums\obj\Debug\netcoreapp3.0\Enums.pdb
